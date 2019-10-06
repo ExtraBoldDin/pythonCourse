@@ -1,2 +1,5 @@
 # pythonCourse
-s1e1 — clock's
+Задания по курсу программирования на языке Python
+
+# 1. Pythontutor
+https://pythontutor.ru
