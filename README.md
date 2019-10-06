@@ -1,6 +1,6 @@
 # Python
 All task are made by me have additionals in name like 's1e4_clock.py'\
 \
-dir s1 : data input and output\
-dir s2 : conditions\
-dir s3 : computing
+_dir_ s1 : data input and output\
+_dir_ s2 : conditions\
+_dir_ s3 : computing
